@@ -1,0 +1,15 @@
+{
+    "name": "BotTestQna",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "160f3780-8874-11e8-bb55-cb0b37823f44",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ]
+}
